@@ -1,16 +1,24 @@
 # xylophone
 
-A new Flutter project.
+# 🎶 Xylophone App - Flutter Project
 
-## Getting Started
+Aplikasi Flutter sederhana yang memungkinkan pengguna memainkan suara nada seperti alat musik **xylophone** hanya dengan menekan tombol berwarna. Proyek ini cocok untuk pembelajaran dasar mengenai **UI Flutter**, **penggunaan widget**, serta **pemutaran audio menggunakan package `audioplayers`**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Tampilan Aplikasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aplikasi memiliki tampilan vertikal dengan 7 tombol warna-warni yang masing-masing akan memutar satu nada berbeda saat ditekan.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Fitur
+
+- 7 tombol warna-warni, masing-masing mewakili satu suara (dari `note1.wav` hingga `note7.wav`).
+- Setiap tombol menggunakan `TextButton` dengan warna berbeda dan teks `soundNumber`.
+- Pemutaran suara dilakukan menggunakan package [audioplayers](https://pub.dev/packages/audioplayers).
+
+---
+
+## Gambar Screenshot
+![xylophone](https://github.com/user-attachments/assets/b1a64139-96a1-46e9-9c00-d43b029649a1)
