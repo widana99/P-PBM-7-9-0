@@ -1,16 +1,22 @@
 # praktikum_tanya_daku
 
-A new Flutter project.
+# Tanya Daku Apa Saja 🎱
 
-## Getting Started
+Aplikasi Flutter sederhana yang terinspirasi dari "Magic 8 Ball". Pengguna dapat mengetuk gambar bola untuk mendapatkan jawaban secara acak dari gambar yang tersedia.
 
-This project is a starting point for a Flutter application.
+## 📱 Tampilan
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini menampilkan sebuah bola ajaib (magic ball). Setiap kali pengguna mengetuk bola tersebut, aplikasi akan secara acak menampilkan gambar bola lainnya yang menggambarkan jawaban berbeda.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Fitur
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Tampilan antarmuka sederhana dan bersih
+- Gambar bola akan berubah secara acak saat ditekan
+- Menggunakan `Image.asset` dan `Random()` dari Dart
+
+## Gambar Screenshot
+![1st](https://github.com/user-attachments/assets/24fc1811-9c77-48f4-bd11-2f2514780fa5)
+![2nd](https://github.com/user-attachments/assets/40ad8903-db73-4c0a-844d-6b7faf9934db)
+![3rd](https://github.com/user-attachments/assets/af3e99d6-06a3-4b70-9e62-d2789a354c0a)
+![4rd](https://github.com/user-attachments/assets/d6b2f199-4fd3-4f26-8274-61b59feff234)
+![5th](https://github.com/user-attachments/assets/af034b82-633c-4610-9450-332c20172247)
