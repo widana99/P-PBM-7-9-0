@@ -15,8 +15,12 @@ Aplikasi ini menampilkan sebuah bola ajaib (magic ball). Setiap kali pengguna me
 - Menggunakan `Image.asset` dan `Random()` dari Dart
 
 ## Gambar Screenshot
-![1st](https://github.com/user-attachments/assets/24fc1811-9c77-48f4-bd11-2f2514780fa5)
-![2nd](https://github.com/user-attachments/assets/40ad8903-db73-4c0a-844d-6b7faf9934db)
-![3rd](https://github.com/user-attachments/assets/af3e99d6-06a3-4b70-9e62-d2789a354c0a)
-![4rd](https://github.com/user-attachments/assets/d6b2f199-4fd3-4f26-8274-61b59feff234)
-![5th](https://github.com/user-attachments/assets/af034b82-633c-4610-9450-332c20172247)
+![image](https://github.com/user-attachments/assets/e56ae225-ade0-4333-bb69-5009a1d91990)
+![image](https://github.com/user-attachments/assets/e0468425-015b-410c-bdab-4424b5f522b2)
+![image](https://github.com/user-attachments/assets/a81a24b3-0676-4643-94e9-f44966fc7c46)
+![image](https://github.com/user-attachments/assets/a93d91b6-aa96-4f5a-8d8e-394c5122404e)
+![image](https://github.com/user-attachments/assets/7c556da0-0b43-4b50-9086-c2e8ffa3ae3e)
+![image](https://github.com/user-attachments/assets/dcc36285-fde1-4dbd-9d0e-ae44077a3a8c)
+![image](https://github.com/user-attachments/assets/0390d2a4-d9f7-4e6b-9770-eba153d19b68)
+![image](https://github.com/user-attachments/assets/a221f9c0-2168-4dcc-b270-427def0a810b)
+
