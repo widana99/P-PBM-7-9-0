@@ -21,4 +21,5 @@ Aplikasi memiliki tampilan vertikal dengan 7 tombol warna-warni yang masing-masi
 ---
 
 ## Gambar Screenshot
-![xylophone](https://github.com/user-attachments/assets/b1a64139-96a1-46e9-9c00-d43b029649a1)
+![image](https://github.com/user-attachments/assets/75e99f5e-92e0-4a5f-a254-e43774984f25)
+
